@@ -10,34 +10,36 @@ Top-3 dev tools that I use:
 1. Sublime Text
 2. PhpStorm (I'm not proud of this)
 
-### Markdown
+### Tasty things
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hmm... Try to guess the output of this code without compiling.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+const int e = 12; //0b1100
+int main() {
+    int l = e ^ (e >> e/e), r = e * e - l;
+    char f = l * l - l / l, mid;
+    while (l <= r) {
+        cout << (mid = (l + r) >> e/e);
+        if (mid > f) r = mid ^ e/e;
+        else l = mid + ((e<<e/e | e) ^ e);
+    }
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Here'll be my projects
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kickoman/kickoman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- http://mamka.me - **(down now)** the place where you are free to express your opinion about someone's mother. No moderation, friendly atmosphere and lots of fun.
+- [http://project1.andthenjusttouch.me](ProjectOne for IamIT) - an example of Yii-based site maintained by me. Nothing interesting is there, but you can sign up if you want.
+- _Coming soon..._
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is a list of ways to contact me in priority order.
+1. [mailto:kickoman@yandex.by](kickoman@yandex.by) - mail me here (if this is not an urgent matter)
+2. [https://t.me/Kickoman](Kickoman on Telegram) - here you can get a quick response.
+3. [https://github.com/Kickoman](Kickoman on Github) - just to talk about my repositories.
+4. [https://vk.com/dziaciuk](Dziaciuk on VK) - if you have no other ways to contact me.
+

@@ -6,3 +6,6 @@ kramdown:
 future: true
 jailed: false
 gfm_quirks: paragraph_end
+
+title: Kickoman(us)
+description: Check out this page and then just touch me

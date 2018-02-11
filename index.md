@@ -32,14 +32,14 @@ int main() {
 ### Here'll be my projects
 
 - http://mamka.me - **(down now)** the place where you are free to express your opinion about someone's mother. No moderation, friendly atmosphere and lots of fun.
-- [http://project1.andthenjusttouch.me](ProjectOne for IamIT) - an example of Yii-based site maintained by me. Nothing interesting is there, but you can sign up if you want.
+- [ProjectOne for IamIT](http://project1.andthenjusttouch.me) - an example of Yii-based site maintained by me. Nothing interesting is there, but you can sign up if you want.
 - _Coming soon..._
 
 ### Support or Contact
 
 Here is a list of ways to contact me in priority order.
-1. [mailto:kickoman@yandex.by](kickoman@yandex.by) - mail me here (if this is not an urgent matter)
-2. [https://t.me/Kickoman](Kickoman on Telegram) - here you can get a quick response.
-3. [https://github.com/Kickoman](Kickoman on Github) - just to talk about my repositories.
-4. [https://vk.com/dziaciuk](Dziaciuk on VK) - if you have no other ways to contact me.
+1. [kickoman@yandex.by](mailto:kickoman@yandex.by) - mail me here (if this is not an urgent matter)
+2. [Kickoman on Telegram](https://t.me/Kickoman) - here you can get a quick response.
+3. [Kickoman on Github](https://github.com/Kickoman) - just to talk about my repositories.
+4. [Dziaciuk on VK](https://vk.com/dziaciuk) - if you have no other ways to contact me.
 

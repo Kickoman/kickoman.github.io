@@ -1,12 +1,14 @@
 ---
-title: Touch me right now
 ---
 
-## Welcome to GitHub Pages
+## !שלום עליכם
 
-You can use the [editor on GitHub](https://github.com/Kickoman/kickoman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Top-3 dev tools that I use:
+0. Beer
+1. Sublime Text
+2. PhpStorm (I'm not proud of this)
 
 ### Markdown
 

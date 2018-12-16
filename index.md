@@ -1,39 +1,13 @@
 ---
 ---
 
-## !שלום עליכם
+# !שלום עליכם
 
-Welcome here.
+### About me
 
-Top-3 dev tools that I use:
-0. Beer
-1. Sublime Text
-2. PhpStorm (I'm not proud of this)
+Hey everyone. I'm Kanstancin Novikaŭ, a student of BSUIR, FCAD. 
 
-### Tasty things
-
-Hmm... Try to guess the output of this code without compiling.
-
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-const int e = 12; //0b1100
-int main() {
-    int l = e ^ (e >> e/e), r = e * e - l;
-    char f = l * l - l / l, mid;
-    while (l <= r) {
-        cout << (mid = (l + r) >> e/e);
-        if (mid > f) r = mid ^ e/e;
-        else l = mid + ((e<<e/e | e) ^ e);
-    }
-}
-```
-
-### Here'll be my projects
-
-- http://mamka.me - **(down now)** the place where you are free to express your opinion about someone's mother. No moderation, friendly atmosphere and lots of fun.
-- [ProjectOne for IamIT](http://project1.andthenjusttouch.me) - an example of Yii-based site maintained by me. Nothing interesting is there, but you can sign up if you want.
-- _Coming soon..._
+You will not find anything interesting here, so you can _GTFO_ right now.
 
 ### Support or Contact
 

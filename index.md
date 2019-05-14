@@ -3,11 +3,16 @@
 
 # !שלום עליכם
 
-### About me
+## Who am I?
 
-Hey everyone. I'm Kanstancin Novikaŭ, a student of BSUIR, FCAD. 
+Well, the only you should now is that I'm Kickoman (not kickoman**us**, but that's not too important).
+Anyway, your presence here probably means you know me, so don't fuck around. However, this account (kickoman) is personal and for
+side-projects only.
 
-You will not find anything interesting here, so you can _GTFO_ right now.
+## List of stuff (incomplete)
+
+1. **TrainChat** - [chat.eliteme.me](http://chat.eliteme.me/) - shitty PHP-based chat I've written once when I was in train just for fun.
+2. ur anus
 
 ### Support or Contact
 
